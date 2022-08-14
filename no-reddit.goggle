@@ -1,0 +1,7 @@
+! name: No Pinterest
+! description: No Reddit
+! public: true
+! author: Nextgenthemes.com
+! avatar: #de0320
+
+$discard,site=reddit.com
